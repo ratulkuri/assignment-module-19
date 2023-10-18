@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Assignment of Course Module 18
+This project shows database migration according to diagram and CRUD operations with Prisma.
+`aggregate`, `_avg`, `_count`, `groupBy`, `_max`, `_sum` operators also used during some operations.
+
+## API Documents
+### [See Documents](https://documenter.getpostman.com/view/12456604/2s9YR9YCVv)
+
+
+## Provided Database Diagram
+![DB Diagram](https://res.cloudinary.com/amitjs/image/upload/v1697354809/Ostad/Screenshot_3_oni3dy.png)
+
 
 ## Getting Started
 
